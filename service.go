@@ -59,7 +59,7 @@
 //			logger.Error(err)
 //		}
 //	}
-package service // import "github.com/penggy/service"
+package service
 
 import (
 	"errors"
