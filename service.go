@@ -18,7 +18,7 @@
 //	import (
 //		"log"
 //
-//		"github.com/penggy/service"
+//		"github.com/MeloQi/service"
 //	)
 //
 //	var logger service.Logger
